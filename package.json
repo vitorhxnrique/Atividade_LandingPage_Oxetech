@@ -13,5 +13,13 @@
   "dependencies": {
     "@tailwindcss/cli": "^4.3.0",
     "tailwindcss": "^4.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorhxnrique/Atividade_LandingPage_Oxetech.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vitorhxnrique/Atividade_LandingPage_Oxetech/issues"
+  },
+  "homepage": "https://github.com/vitorhxnrique/Atividade_LandingPage_Oxetech#readme"
 }
